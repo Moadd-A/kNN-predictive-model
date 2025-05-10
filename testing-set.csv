@@ -1,0 +1,101 @@
+MovieID,Title,Genre,Year,Director,Lead Actor,RT (%),IMDB,Box Office Revenue (in million $),Budget,Runtime,Like it
+101,Echoing Times,Horror,2023,Dario Argento,Ethan Hawke,75,6.73,55,55,104,0
+102,Starlight Voyage,Comedy,2022,Sam Raimi,Kate Winslet,88,7.67,467,134,116,1
+103,Autumn's Grace,Thriller,2021,Zack Snyder,Sigourney Weaver,85,7.53,58,58,103,0
+104,Sky's Frontier,Comedy,2023,David Lynch,Samuel L. Jackson,85,7.56,131,137,119,0
+105,Time's Whisper,Action,2022,F. Gary Gray,Morgan Freeman,81,7.29,117,143,116,1
+106,Distant Cries,Horror,2022,Gus Van Sant,Michelle Pfeiffer,78,7.08,37,49,107,0
+107,Galactic Chronicles,Action,2023,Ridley Scott,Chris Pratt,81,7.15,123,142,117,0
+108,Starlit Promise,Thriller,2023,Bryan Singer,Gary Oldman,83,7.55,61,54,98,0
+109,Quantum Echoes,Action,2022,Darren Aronofsky,Tessa Thompson,82,7.16,126,143,120,1
+110,Quantum Nexus,Action,2021,Zack Snyder,Tom Hardy,82,7.15,105,152,117,1
+111,Edge of Peril,Fantasy,2022,Todd Haynes,Anne Hathaway,77,6.67,103,119,102,1
+112,Sundown Kisses,Thriller,2022,Danny Boyle,Keanu Reeves,88,7.71,47,49,103,0
+113,Ocean's Whisper,Thriller,2021,Sofia Coppola,Margot Robbie,84,7.67,49,51,104,0
+114,Horizon's Reach,Comedy,2021,Edgar Wright,Viola Davis,83,7.71,472,138,120,1
+115,Golden Strings,Thriller,2021,Sam Mendes,Natalie Portman,86,8,65,59,101,1
+116,Empire's Ascent,Comedy,2023,Wes Anderson,Russell Crowe,81,7.41,122,139,120,1
+117,Strike Force,Adventure,2023,Quentin Tarantino,Meryl Streep,75,6.68,107,128,111,0
+118,Echoes in Silence,Horror,2022,Guy Ritchie,Idris Elba,76,6.74,34,47,104,0
+119,Cosmic Saga,Action,2022,David Fincher,Orlando Bloom,83,7.27,127,149,113,1
+120,Past's Echo,Horror,2021,Bong Joon-ho,Ryan Reynolds,75,6.71,53,57,106,0
+121,Twilight Dreams,Thriller,2022,Barry Jenkins,Jason Momoa,86,7.71,58,51,101,0
+122,Fading Echoes,Horror,2022,David Lynch,Angelina Jolie,78,6.93,38,51,102,0
+123,Galaxy's Shadow,Action,2021,Guillermo del Toro,Morgan Freeman,77,7.03,107,145,118,0
+124,Sunset's Caress,Thriller,2022,David Fincher,Daniel Craig,87,7.65,46,49,105,0
+125,Echoes of Reality,Horror,2023,Danny Boyle,Liam Neeson,81,6.98,52,53,101,0
+126,Untamed Frontier,Comedy,2021,J.J. Abrams,Willem Dafoe,90,8.14,517,154,122,1
+127,Labyrinth Lost,Sci-Fi,2023,Jane Campion,Nicole Kidman,81,7.49,89,71,99,0
+128,Oasis of Fate,Comedy,2022,Lulu Wang,Tilda Swinton,85,7.84,476,139,124,1
+129,Warrior's Charge,Adventure,2023,Bong Joon-ho,Penelope Cruz,75,6.61,124,140,112,0
+130,Realm's Edge,Comedy,2022,Kathryn Bigelow,Dwayne Johnson,83,7.34,128,140,120,1
+131,Galactic Odyssey,Comedy,2021,Francis Ford Coppola,Natalie Portman,86,7.64,455,141,119,0
+132,Demon's Shadows,Romance,2022,Ridley Scott,Javier Bardem,69,6.22,66,28,93,1
+133,Whispering Shadows,Romance,2022,Nancy Meyers,Charlize Theron,71,6.29,57,31,91,0
+134,Sands of Time,Comedy,2022,Joel Coen,Jason Momoa,88,8.07,482,139,120,1
+135,Past's Reflection,Horror,2022,J.J. Abrams,Hugh Jackman,78,6.95,45,55,106,0
+136,Highway Solitude,Horror,2023,Barry Jenkins,Cate Blanchett,82,7.36,85,66,108,0
+137,Stellar Rhythms,Action,2021,M. Night Shyamalan,Ewan McGregor,86,7.43,106,145,115,1
+138,Wildfire's Path,Adventure,2022,Denis Villeneuve,Hugh Jackman,76,6.76,110,138,113,0
+139,Peril's Abyss,Fantasy,2021,Guy Ritchie,Chris Evans,76,6.68,101,117,98,0
+140,Rebel's March,Adventure,2021,Ridley Scott,Idris Elba,74,6.66,104,128,109,0
+141,Labyrinth's Heart,Sci-Fi,2022,Patty Jenkins,Anthony Hopkins,87,7.49,95,72,99,0
+142,Celestial Odyssey,Comedy,2021,Tim Burton,Arnold Schwarzenegger,88,8.04,477,138,119,1
+143,Shadows' Curse,Romance,2022,Pedro Almodovar,Bill Murray,70,6.3,60,27,96,0
+144,City's Pulse,Horror,2023,Neill Blomkamp,Cate Blanchett,85,7.48,89,63,108,1
+145,Mountains Beyond,Comedy,2023,Eli Roth,Joaquin Phoenix,86,7.79,129,139,120,1
+146,Desert Storm,Adventure,2023,Spike Lee,Benedict Cumberbatch,76,6.79,128,135,113,0
+147,Voyager's Paradox,Action,2023,Brian De Palma,Jessica Chastain,80,7.3,119,143,115,1
+148,Crimson Strings,Thriller,2021,Steven Spielberg,Keira Knightley,87,7.81,69,61,102,1
+149,Veil of Secrets,Sci-Fi,2022,Jordan Peele,Chris Hemsworth,86,7.72,91,70,100,0
+150,Phantom's Grasp,Romance,2022,Mel Gibson,Christopher Walken,72,6.26,64,26,97,1
+151,Expedition Unknown,Comedy,2023,Lana Wachowski,Robert Downey Jr.,90,7.97,497,152,125,1
+152,Frontline,Adventure,2023,Francis Lawrence,Amy Adams,76,6.77,104,128,110,1
+153,Haunt's Echo,Romance,2021,Tim Burton,Ralph Fiennes,71,6.42,55,30,92,0
+154,Starlit Expedition,Comedy,2022,Oliver Stone,Mark Ruffalo,90,7.94,482,135,118,0
+155,Island's End,Comedy,2021,Tony Scott,Matthew McConaughey,88,7.89,491,141,123,1
+156,Terror's Echo,Romance,2021,Luc Besson,Cate Blanchett,72,6.29,58,29,92,0
+157,Dream's Resonance,Horror,2023,Paul Thomas Anderson,Michael Fassbender,77,6.96,50,52,102,0
+158,Quest Uncharted,Comedy,2021,Patty Jenkins,Jeremy Irons,89,8.26,507,154,121,1
+159,Orbit's Edge,Action,2023,James Cameron,Charlize Theron,82,7.28,110,145,120,0
+160,Sapphire Love,Thriller,2021,Neill Blomkamp,Scarlett Johansson,86,7.58,64,57,103,0
+161,Danger's Edge,Fantasy,2021,Joe Johnston,Keira Knightley,78,6.83,99,118,97,1
+162,Nebula's Quest,Action,2022,Sofia Coppola,Samuel L. Jackson,82,6.97,127,152,114,1
+163,Ghoul's Touch,Romance,2022,Justin Lin,Robert De Niro,70,6.07,65,25,96,1
+164,Urban Solace,Horror,2023,Taika Waititi,Leonardo DiCaprio,84,7.29,88,65,105,0
+165,Beast's Lair,Romance,2021,Ava DuVernay,Tilda Swinton,72,6.53,56,29,93,0
+166,Nova's Descent,Action,2023,Wong Kar-wai,Sandra Bullock,82,7.29,117,141,116,0
+167,Mountain's Wrath,Adventure,2022,Alex Garland,Halle Berry,78,6.99,109,134,113,1
+168,Desert Mirage,Horror,2022,Ron Howard,Jeff Bridges,86,7.63,85,65,107,1
+169,Star Cluster,Action,2021,Christopher Nolan,Viola Davis,79,6.87,123,144,117,0
+170,River's Song,Thriller,2021,Quentin Tarantino,Henry Cavill,86,7.82,49,51,104,1
+171,Rebellion's Roar,Adventure,2021,Michael Bay,Sigourney Weaver,74,6.86,102,131,109,1
+172,Jungle's Wrath,Adventure,2023,Jordan Peele,Keanu Reeves,79,6.81,122,133,108,1
+173,Eternal Embrace,Thriller,2021,Rian Johnson,Johnny Depp,87,7.65,70,57,103,0
+174,Nebula's Secrets,Action,2023,George Lucas,Chadwick Boseman,84,7.38,124,150,116,1
+175,Lakeside Memory,Thriller,2021,Steven Soderbergh,Brad Pitt,86,7.64,54,54,105,1
+176,Hallow's Veil,Romance,2023,Mike Flanagan,Denzel Washington,72,6.14,61,28,94,1
+177,Abyss Watcher,Romance,2023,Martin Scorsese,Emma Stone,73,6.45,60,30,95,0
+178,Whispers of the Past,Horror,2022,Robert Eggers,Johnny Depp,80,7.16,41,54,105,1
+179,Siege Warfare,Adventure,2022,David Cronenberg,John Travolta,75,6.67,100,129,110,1
+180,Harbor's Lullaby,Thriller,2023,Mike Flanagan,Tom Hiddleston,86,7.66,68,59,99,1
+181,Battlefront,Adventure,2023,Luc Besson,Jennifer Lawrence,79,6.98,119,131,110,0
+182,Ocean's Veil,Comedy,2022,John Carpenter,Edward Norton,93,8.43,487,145,122,0
+183,Nightscape,Adventure,2022,Terry Gilliam,Nicolas Cage,81,7.28,120,132,113,1
+184,Galactic Pioneers,Action,2021,Peter Berg,Rachel McAdams,78,7.1,106,145,118,0
+185,Kingdom's Peak,Comedy,2023,Martin Scorsese,Mel Gibson,86,7.53,127,139,121,1
+186,Tales Untold,Horror,2023,Matthew Vaughn,Frances McDormand,79,6.93,53,53,103,0
+187,Stellar Frontier,Action,2021,Ang Lee,Kate Winslet,81,7.19,124,149,113,1
+188,Siege Line,Adventure,2023,Robert Zemeckis,Brad Pitt,79,7.31,115,136,111,1
+189,Chase Unending,Fantasy,2023,Ron Howard,Christian Bale,74,6.56,96,123,103,1
+190,Dawn Patrol,Adventure,2021,Ethan Coen,Shah Rukh Khan,79,6.89,112,132,115,0
+191,Urban Combat,Adventure,2023,Christopher Nolan,Julianne Moore,79,6.93,116,132,110,1
+192,Searing Memoirs,Horror,2023,Steven Spielberg,Ian McKellen,84,7.51,87,64,106,1
+193,Realm's Quest,Comedy,2021,Ari Aster,Nicole Kidman,89,7.95,494,147,118,1
+194,Web of Deceit,Sci-Fi,2022,Peter Jackson,Tessa Thompson,84,7.46,96,72,95,0
+195,Endless Pursuit,Fantasy,2022,Clint Eastwood,Gerard Butler,74,6.65,98,123,101,1
+196,Dawn's Lullaby,Thriller,2021,David O. Russell,Ben Affleck,83,7.29,55,58,102,0
+197,Twisted Fate,Sci-Fi,2022,Paul Thomas Anderson,Tom Cruise,89,7.65,92,73,98,0
+198,Kingdom's Fall,Comedy,2023,Stanley Kubrick,Mark Wahlberg,91,8.07,487,143,125,0
+199,Jungle's Mystery,Comedy,2021,Greta Gerwig,Will Smith,88,7.9,492,148,123,1
+200,Midnight Whispers,Thriller,2021,Luc Besson,Jessica Chastain,84,7.79,71,55,103,1
